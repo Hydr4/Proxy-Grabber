@@ -9,7 +9,7 @@ do another tasks which are:<br>
 4. Stopping proxy settings.<br>
 5. Deleting the text file of ProxyToday.<br>
 
-I hope you find this couple of scripts useful and helpful.
+I hope you find this couple of scripts useful and helpful.<br>
 ==================================
 If you need any help, or you wanna contact me, here's how:<br>
 <b>Twitter:</b> twitter.com/abdelrahmanmoez<br>
